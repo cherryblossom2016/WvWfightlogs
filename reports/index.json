@@ -1,0 +1,41 @@
+{
+  "colorPalette": "violet-purple",
+  "axiTheme": "glass",
+  "glass": true,
+  "glassSurfaces": true,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
+  "entries": [
+    {
+      "id": "20261007-165342-p97l",
+      "title": "Emperor Chopsticks",
+      "commanders": [
+        "Emperor Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Pugs Meet World Vs World",
+        "tag": "PuGS"
+      },
+      "dateStart": "2026-10-07T23:53:42.000Z",
+      "dateEnd": "2026-10-08T01:18:32.776Z",
+      "dateLabel": "10/7/2026, 4:53:42 PM - 10/7/2026, 6:18:32 PM",
+      "url": "https://cherryblossom2016.github.io/WvWfightlogs/?report=20261007-165342-p97l",
+      "publishedBy": "cherryblossom2016",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 41
+      }
+    }
+  ]
+}
