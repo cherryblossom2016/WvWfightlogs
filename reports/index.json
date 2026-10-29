@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261028-162654-qi06",
+      "title": "Salty Chopsticks",
+      "commanders": [
+        "Salty Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Pugs Meet World Vs World",
+        "tag": "PuGS"
+      },
+      "dateStart": "2026-10-28T23:26:54.000Z",
+      "dateEnd": "2026-10-29T00:05:50.707Z",
+      "dateLabel": "10/28/2026, 4:26:54 PM - 10/28/2026, 5:05:50 PM",
+      "url": "https://cherryblossom2016.github.io/WvWfightlogs/?report=20261028-162654-qi06",
+      "publishedBy": "cherryblossom2016",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 41,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20261027-163854-ye77",
       "title": "Emperor Chopsticks, Salty Chopsticks",
       "commanders": [
