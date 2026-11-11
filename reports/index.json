@@ -9,35 +9,6 @@
   },
   "entries": [
     {
-      "id": "20261111-105505-ftxk",
-      "title": "Pimp Piro Moistkiss",
-      "commanders": [
-        "Pimp Piro Moistkiss"
-      ],
-      "guild": {
-        "id": "68CD5CAF-41CC-E411-A32A-E4115BDFA895",
-        "name": "Virtues Of The Exiled",
-        "tag": "VotE"
-      },
-      "dateStart": "2026-11-11T18:55:05.000Z",
-      "dateEnd": "2026-11-11T19:18:07.933Z",
-      "dateLabel": "11/11/2026, 10:55:05 AM - 11/11/2026, 11:18:07 AM",
-      "url": "https://cherryblossom2016.github.io/WvWfightlogs/?report=20261111-105505-ftxk",
-      "publishedBy": "cherryblossom2016",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 9,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 10
-      }
-    },
-    {
       "id": "20261028-162654-qi06",
       "title": "Salty Chopsticks",
       "commanders": [
