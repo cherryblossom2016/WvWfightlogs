@@ -7,5 +7,40 @@
     "app": "axibridge",
     "version": "3.22.12"
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "20261111-160640-3apy",
+      "title": "Salty Chopsticks",
+      "commanders": [
+        "Salty Chopsticks"
+      ],
+      "guild": {
+        "id": "235CEB28-D634-E911-81AA-A77AA130EAB8",
+        "name": "Pugs Meet World Vs World",
+        "tag": "PuGS"
+      },
+      "dateStart": "2026-11-12T00:06:40.000Z",
+      "dateEnd": "2026-11-12T01:18:12.663Z",
+      "dateLabel": "11/11/2026, 4:06:40 PM - 11/11/2026, 5:18:12 PM",
+      "url": "https://cherryblossom2016.github.io/WvWfightlogs/?report=20261111-160640-3apy",
+      "publishedBy": "cherryblossom2016",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          },
+          {
+            "name": "World vs World",
+            "value": 5,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 53
+      }
+    }
+  ]
 }
